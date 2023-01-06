@@ -1,0 +1,23 @@
+{
+  "name": "copilot-server",
+  "version": "1.0.0",
+  "description": "A server built using GitHub Copilot suggestions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallacepreston/copilot-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallacepreston/copilot-server/issues"
+  },
+  "homepage": "https://github.com/wallacepreston/copilot-server#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
